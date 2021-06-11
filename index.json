@@ -39,7 +39,7 @@
 	"title": "Pomodoro : théorie",
 	"tags": [],
 	"description": "",
-	"content": "     "
+	"content": "   "
 },
 {
 	"uri": "http://example.org/memoiredef/pourquoimemoire/",
@@ -162,7 +162,7 @@
 },
 {
 	"uri": "http://example.org/",
-	"title": "",
+	"title": "Accueil",
 	"tags": [],
 	"description": "",
 	"content": "   "
